@@ -1,0 +1,7 @@
+OID,Title,Color,DepartmentParent_OID
+1,World News,#F52612,
+2,Europe,#EB5F25,1
+3,Norway,#EB5F25,2
+4,VG,#EB5F25,3
+5,Sport,#F52612,4
+6,Premier League,#F52612,5

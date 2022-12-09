@@ -1,0 +1,49 @@
+[
+	{
+		"OID": 1,
+		"Title": "World News",
+		"NumDescendants": 5,
+		"Color": "#F52612",
+		"Departments": [
+			{
+				"OID": 2,
+				"Title": "Europe",
+				"NumDescendants": 4,
+				"Color": "#EB5F25",
+				"Departments": [
+					{
+						"OID": 3,
+						"Title": "Norway",
+						"NumDescendants": 3,
+						"Color": "#EB5F25",
+						"Departments": [
+							{
+								"OID": 4,
+								"Title": "VG",
+								"NumDescendants": 2,
+								"Color": "#EB5F25",
+								"Departments": [
+									{
+										"OID": 5,
+										"Title": "Sport",
+										"NumDescendants": 1,
+										"Color": "#F52612",
+										"Departments": [
+											{
+												"OID": 6,
+												"Title": "Premier League",
+												"NumDescendants": 0,
+												"Color": "#F52612",
+												"Departments": []
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

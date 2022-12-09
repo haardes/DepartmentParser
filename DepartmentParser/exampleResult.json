@@ -1,0 +1,26 @@
+[
+	{
+		"OID": 1,
+		"Title": "US News",
+		"NumDescendants": 4,
+		"Color": "#F52612",
+		"Departments": [
+			{ "OID": 2, "Title": "Crime + Justice", "NumDescendants": 0, "Color": "#F52612", "Departments": [] },
+			{ "OID": 3, "Title": "Energy + Environment", "NumDescendants": 0, "Color": "#F52612", "Departments": [] },
+			{ "OID": 4, "Title": "Extreme Weather", "NumDescendants": 0, "Color": "#F52612", "Departments": [] },
+			{ "OID": 5, "Title": "Space + Science", "NumDescendants": 0, "Color": "#F52612", "Departments": [] }
+		]
+	},
+	{
+		"OID": 6,
+		"Title": "International News",
+		"NumDescendants": 4,
+		"Color": "#EB5F25",
+		"Departments": [
+			{ "OID": 7, "Title": "Africa", "NumDescendants": 0, "Color": "#EB5F25", "Departments": [] },
+			{ "OID": 8, "Title": "Americas", "NumDescendants": 0, "Color": "#EB5F25", "Departments": [] },
+			{ "OID": 9, "Title": "Asia", "NumDescendants": 0, "Color": "#EB5F25", "Departments": [] },
+			{ "OID": 10, "Title": "Europe", "NumDescendants": 0, "Color": "#EB5F25", "Departments": [] }
+		]
+	}
+]
